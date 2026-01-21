@@ -1,0 +1,7 @@
+When I first started, I was unable to get this code to work for me
+and I was having trouble figuring out how to place the words diagonally
+After some research and another lecture, I was able to understand how to 
+place words diagonally and how to utalize pointers.
+I fixed the canPlaceWord by keeping the function signatures consistent with 
+the 2D array. I then removed any code that attempted to change the pointer type.
+Then I ensured all functions (canPlaceWord, placeWord, tryPlaceWord) use the same array type.

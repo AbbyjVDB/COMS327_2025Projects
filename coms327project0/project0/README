@@ -1,0 +1,4 @@
+This is a program which takes the size of the word search the words that the user wants to be in the word search.
+Any spaces no occupied are filled by random letters. The puzzle cannot be bigger then 20x20.
+The words are placed randomly in four directions: horizontally, vertical, diagonal down, and diagonal up.
+The output is the finished puzzle and a list of the words which were entered.
