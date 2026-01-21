@@ -1,0 +1,11 @@
+5
+1	left	-10	0
+2	leftc	-9	0
+3	center	-8	0
+4	right, "center"	-7	0
+5	right	-6	0
+4
+1	2	NaN	-10	0	Test Road
+2	3	1.0	-9	0	Test Road
+3	4	1.0	-8	0	Test Road
+4	5	1.0	-7	0	Test Road
